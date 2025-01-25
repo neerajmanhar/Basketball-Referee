@@ -43,11 +43,3 @@ Overall, the AI Basketball Referee combines state-of-the-art computer vision tec
 This file is the core to the basketball detection model. Unfortunately, the file is too big and has exceeded GitHub storage limits. Please download the file here:
 https://drive.google.com/file/d/1e6HLRuhh1IEmxOFaxHQMxfRqhzD92t3B/view?usp=sharing
 
-## In The News:
-- https://news.gatech.edu/news/2023/07/25/tech-student-brings-artificial-intelligence-basketball-officiating
-- https://www.hackster.io/news/ai-basketball-referee-detects-traveling-ed1ed45f8ccd
-- https://aifinityhub.com/2023/06/03/hoops-and-algorithms-ais-role-in-nbas-refereeing/
-- https://www.fry-ai.com/p/ai-basketball-referee-days-yelling-human-officials-soon
-- SingleStore Webinar https://www.singlestore.com/resources/webinar-how-to-build-an-openai-basketball-referee-system-with-computer-vision-2023-07/
-- Overtime (7M+) https://www.instagram.com/reel/CtMd6LgAAMo/?igshid=ZmZiYTY5ZDNhOA%3D%3D
-- Barsee AI https://twitter.com/WGMImedia/status/1664205786644455424
